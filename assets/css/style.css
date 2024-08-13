@@ -1,0 +1,46 @@
+.size_11{
+    font-size: 11px;
+}
+.size_12{
+    font-size: 12px;
+}
+.size_14{
+    font-size: 14px;
+}
+/* .ma-auto{
+    width: 17%;
+    margin: 17px auto !important;
+} */
+.slider_baner_home8_1{
+    /* display: flex; */
+    width: 1300px !important;
+    /* width: 1000px !important; */
+    /* border: 20px orange solid !important; */
+    
+}
+.slider_baner_home81{
+    /* display: flex; */
+    margin-left: 0;
+    width: 1300px !important;
+    /* width: 1000px !important; */
+    /* border: 20px rgb(0, 123, 255) solid !important; */
+    
+}
+.slider1__bg{
+    width: 100% !important;
+    /* height: 150px; */
+    margin-left: -20px;
+    /* border: 2px red solid; */
+    
+}
+.slider__bg2{
+    width: 100% !important;
+    /* height: 150px; */
+    /* border: 5px blue solid; */
+    
+}
+.w_card{
+    width: 80% !important;
+    margin: auto;
+    
+}
